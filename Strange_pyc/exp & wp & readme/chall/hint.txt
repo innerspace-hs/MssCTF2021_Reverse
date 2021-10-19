@@ -1,0 +1,8 @@
+## Hint
+
+- dis和marshal是两个好东西
+- httpsdocs.python.orgzh-cn3librarydis.html
+
+## Environment
+
+python3.9.1
